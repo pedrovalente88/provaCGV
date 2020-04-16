@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Prova_CGV.Models.AdvogadoModel>
+
+@{
+    ViewBag.Title = "Lista";
+}
+
+<h2>Lista de Advogados</h2>
+
+@{if (TempData["MensagemSucesso"] != null)
+    {
+        <div id="DivMensagemSucesso" name="DivMensagem" class="alert alert-success">
+            <button type="button" class="close" onclick="FecharAlerta('DivMensagemSucesso')">×</button>
+            <strong>@TempData["MensagemSucesso"]</strong>
+        </div>
+    }
+}
+
+@{if (TempData["MensagemErro"] != null)
+    {
+        <div id="DivMensagemErro" name="DivMensagem" class="alert alert-warning">
+            <button type="button" class="close" onclick="FecharAlerta('DivMensagemErro')">×</button>
+            <strong>@TempData["MensagemErro"]</strong>
+        </div>
+    }
+}
+
+
+
+
+<p>
+    @Html.ActionLink("Cadastrar", "Cadastro", new Prova_CGV.Models.AdvogadoModel(), htmlAttributes: new { @class = "btn btn-primary btn-lg" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Senioridade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Endereco)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Prova_CGV.Models.AdvogadoModel.GetSenioridadeTexto(item.Senioridade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Endereco.Logradouro)
+                &nbsp;
+                @Html.DisplayFor(modelItem => item.Endereco.Numero)
+                &nbsp;
+                @Html.DisplayFor(modelItem => item.Endereco.Complemento)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edita", new { id = item.Id }) |
+                @Html.ActionLink("Ver", "Ver", new { id = item.Id }) |
+                @Html.ActionLink("Deletar", "Deletar", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+<script>
+    function FecharAlerta(div) {
+        $("#" + div).hide();
+    }
+
+</script>

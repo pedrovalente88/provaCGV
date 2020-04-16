@@ -1,0 +1,26 @@
+C:\Users\Pedro\source\repos\Prova CGV\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\Pedro\source\repos\Prova CGV\Services\bin\Debug\netstandard2.0\Services.dll
+C:\Users\Pedro\source\repos\Prova CGV\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\Pedro\source\repos\Prova CGV\Services\bin\Debug\netstandard2.0\Domains.dll
+C:\Users\Pedro\source\repos\Prova CGV\Services\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Pedro\source\repos\Prova CGV\Services\bin\Debug\netstandard2.0\Domains.pdb
+C:\Users\Pedro\source\repos\Prova CGV\Services\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Pedro\source\repos\Prova CGV\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\Prova CGV\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Prova CGV\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Prova CGV\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\Users\Pedro\source\repos\Prova CGV\Services\obj\Debug\netstandard2.0\Services.dll
+C:\Users\Pedro\source\repos\Prova CGV\Services\obj\Debug\netstandard2.0\Services.pdb
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\bin\Debug\netstandard2.0\Services.dll
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\bin\Debug\netstandard2.0\Domains.dll
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\bin\Debug\netstandard2.0\Domains.pdb
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\obj\Debug\netstandard2.0\Services.dll
+C:\Users\Pedro\Documents\GitHub\provaCGV\Services\obj\Debug\netstandard2.0\Services.pdb

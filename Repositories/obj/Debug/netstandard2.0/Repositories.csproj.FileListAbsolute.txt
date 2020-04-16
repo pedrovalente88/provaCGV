@@ -1,0 +1,22 @@
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\bin\Debug\netstandard2.0\Repositories.deps.json
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\bin\Debug\netstandard2.0\Domains.dll
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\bin\Debug\netstandard2.0\Domains.pdb
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\obj\Debug\netstandard2.0\Repositories.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\obj\Debug\netstandard2.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\obj\Debug\netstandard2.0\Repositories.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\obj\Debug\netstandard2.0\Repositories.csproj.CopyComplete
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\obj\Debug\netstandard2.0\Repositories.dll
+C:\Users\Pedro\source\repos\Prova CGV\Repositories\obj\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\bin\Debug\netstandard2.0\Repositories.deps.json
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\bin\Debug\netstandard2.0\Repositories.dll
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\bin\Debug\netstandard2.0\Repositories.pdb
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\bin\Debug\netstandard2.0\Domains.dll
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\bin\Debug\netstandard2.0\Domains.pdb
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\obj\Debug\netstandard2.0\Repositories.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\obj\Debug\netstandard2.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\obj\Debug\netstandard2.0\Repositories.AssemblyInfo.cs
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\obj\Debug\netstandard2.0\Repositories.csproj.CopyComplete
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\obj\Debug\netstandard2.0\Repositories.dll
+C:\Users\Pedro\Documents\GitHub\provaCGV\Repositories\obj\Debug\netstandard2.0\Repositories.pdb
