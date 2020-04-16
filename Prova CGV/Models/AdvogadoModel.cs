@@ -35,6 +35,7 @@ namespace Prova_CGV.Models
         /// <summary>
         /// Endereço
         /// </summary>
+        [Display(Name = "Endereço")]
         public EnderecoModel Endereco { get; set; }
 
         /// <summary>
